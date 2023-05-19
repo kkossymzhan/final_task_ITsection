@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\final_task_ITsection\obj\Debug\net6.0\final_task_ITsection.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\final_task_ITsection\obj\Debug\net6.0\final_task_ITsection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\final_task_ITsection\obj\Debug\net6.0\final_task_ITsection.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\final_task_ITsection\obj\Debug\net6.0\final_task_ITsection.AssemblyInfo.cs
+C:\Users\user\Desktop\final_task_ITsection\obj\Debug\net6.0\final_task_ITsection.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\final_task_ITsection\bin\Debug\net6.0\final_task_ITsection.exe
+C:\Users\user\Desktop\final_task_ITsection\bin\Debug\net6.0\final_task_ITsection.deps.json
+C:\Users\user\Desktop\final_task_ITsection\bin\Debug\net6.0\final_task_ITsection.runtimeconfig.json
+C:\Users\user\Desktop\final_task_ITsection\bin\Debug\net6.0\final_task_ITsection.dll
+C:\Users\user\Desktop\final_task_ITsection\bin\Debug\net6.0\final_task_ITsection.pdb
+C:\Users\user\Desktop\final_task_ITsection\obj\Debug\net6.0\final_task_ITsection.dll
+C:\Users\user\Desktop\final_task_ITsection\obj\Debug\net6.0\refint\final_task_ITsection.dll
+C:\Users\user\Desktop\final_task_ITsection\obj\Debug\net6.0\final_task_ITsection.pdb
+C:\Users\user\Desktop\final_task_ITsection\obj\Debug\net6.0\final_task_ITsection.genruntimeconfig.cache
+C:\Users\user\Desktop\final_task_ITsection\obj\Debug\net6.0\ref\final_task_ITsection.dll
