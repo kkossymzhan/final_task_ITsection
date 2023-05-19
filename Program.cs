@@ -26,5 +26,18 @@ void PrintArray(string[] array)
         System.Console.Write(array[i] + " ");
 }
 
+int j = 0;
+for (int i = 0; i < inputWords.Length; i++)
+{
+    if (inputWords[i].Length <=3)
+    {
+        electedWords[j] = inputWords[i];
+        j++;
+    }
+}
+
 System.Console.WriteLine("Initial words:");
 PrintArray(inputWords);
+System.Console.WriteLine();
+System.Console.WriteLine("Elected words after elimination:");
+PrintArray(electedWords);
